@@ -9,6 +9,6 @@ history: [
       ]
 }
 ```
-Display the history at the side of the calculator.
+Display the history at the side of the calculator. Try solving the question in two ways, using class-based components, and function-based components.
   
 <img src="./calculator.png" width="25%" />
