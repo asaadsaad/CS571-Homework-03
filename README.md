@@ -1,5 +1,5 @@
 # CS571-Homework-03
-* Create a Calculator application using React, that manages the state of a calculator as follows:
+Create a Calculator application using React, that manages the state as follows:
 ```javascript
 state = {
 current: {n1: number, n2: number, operation: string, result: number}
